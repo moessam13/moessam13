@@ -9,9 +9,9 @@
 
 🌐 Passionate about detecting **C2 Traffic, Data Exfiltration**, and defending enterprise networks from modern threats.
 
-[![views](https://komarev.com/ghpvc/?username=moessam13&style=flat&color=313131&label=profile%20views)](https://github.com/moessam13)
-[![Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)](#)
-[![SOC](https://img.shields.io/badge/SOC-Analyst-red?style=flat&labelColor=545454&color=313131)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=moessam13&style=flat&label=Profile%20Views&color=313131)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)
+![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=flat&labelColor=545454&color=313131)
 
 <br>
 <br>
