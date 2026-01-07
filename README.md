@@ -51,8 +51,8 @@
 - Firewall Analysis (FortiGate)
 
 ### 🔹 Platforms & Systems
-- Linux
-- Windows
+- **Linux Administration (I & II)**
+- Windows Server
 - Active Directory (Basics)
 - Virtual Labs (VMware / Hyper-V)
 
@@ -76,6 +76,7 @@
 - 🛡️ **eCIR** (eLearnSecurity Certified Incident Responder)
 - 🏹 **Threat Hunting** Professional Training
 - 🌐 **CCNA** (Cisco Certified Network Associate)
+- 🐧 **Linux Administration I & II**
 - 🧱 **Firewall Administration** (FortiGate / Palo Alto)
 - 🎓 SANS **SEC450** & **SEC504**
 - 🛡️ Continuous hands-on practice in **Blue Team Operations**
