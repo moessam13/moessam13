@@ -9,7 +9,7 @@
 
 🌐 Passionate about detecting **C2 Traffic, Data Exfiltration**, and defending enterprise networks from modern threats.
 
-[![views](https://komarev.com/ghpvc/?username=mohamed-essam&style=flat&color=313131&label=profile%20views)](https://github.com/mohamed-essam)
+[![views](https://komarev.com/ghpvc/?username=mohamed-essam&style=flat&color=313131&label=profile%20views)](https://github.com/moessam13)
 [![Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)](#)
 [![SOC](https://img.shields.io/badge/SOC-Analyst-red?style=flat&labelColor=545454&color=313131)](#)
 
@@ -95,7 +95,7 @@
 
 - 💼 LinkedIn: *(add your link)*
 - 📧 Email: *(optional)*
-- 🌍 GitHub: [github.com/mohamed-essam](https://github.com/mohamed-essam)
+- 🌍 GitHub: [github.com/mohamed-essam](https://github.com/moessam13)
 
 ---
 
