@@ -1,7 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-### Hey there! 👋
+### Hey there! 
 
  I'm **Mohamed Essam**.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### 🔹 Network & Traffic Analysis
 - Wireshark
@@ -83,7 +83,7 @@
 
 ---
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 
 | Focus | Description |
 |------|------------|
@@ -94,7 +94,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 -  LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)
 -  Email: [Your Email](mailto:your@email.com)
