@@ -73,9 +73,12 @@
 
 ## 📚 Certifications & Learning
 
-- SANS **SEC450**
-- SANS **SEC504**
-- Continuous hands-on practice in **Blue Team Operations**
+- 🛡️ **eCIR** (eLearnSecurity Certified Incident Responder)
+- 🏹 **Threat Hunting** Professional Training
+- 🌐 **CCNA** (Cisco Certified Network Associate)
+- 🧱 **Firewall Administration** (FortiGate / Palo Alto)
+- 🎓 SANS **SEC450** & **SEC504**
+- 🛡️ Continuous hands-on practice in **Blue Team Operations**
 
 ---
 
@@ -92,9 +95,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
-- 🌍 GitHub: [github.com/mohamed-essam](https://github.com/moessam13)
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)
+- 📧 Email: [Your Email](mailto:your@email.com)
+- 🌍 GitHub: [github.com/moessam13](https://github.com/moessam13)
 
 ---
 
