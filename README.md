@@ -3,11 +3,11 @@
 
 ### Hey there! 👋
 
-🛡️ I'm **Mohamed Essam**.
+ I'm **Mohamed Essam**.
 
-🔐 Cyber Security Specialist focused on **Network Security, Traffic Analysis, and Incident Response**.
+ Cyber Security Specialist focused on **Network Security, Traffic Analysis, and Incident Response**.
 
-🌐 Passionate about detecting **C2 Traffic, Data Exfiltration**, and defending enterprise networks from modern threats.
+ Passionate about detecting **C2 Traffic, Data Exfiltration**, and defending enterprise networks from modern threats.
 
 ![Profile Views](https://img.shields.io/badge/Profile-Views-313131?style=flat&labelColor=545454)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)
@@ -21,12 +21,12 @@
 
 ## 🧠 About Me
 
-- 🔍 Specialized in **Network Traffic Analysis (Wireshark, Zeek, NetFlow)**
-- 🚨 SOC & **Incident Response**
-- 🧬 Detection of **C2 & Exfiltration Techniques**
-- 🧱 Strong background in **Network Security & Defense**
-- 📊 SIEM Monitoring & Alert Analysis
-- 🧪 Hands-on labs & real attack scenarios
+-  Specialized in **Network Traffic Analysis (Wireshark, Zeek, NetFlow)**
+-  SOC & **Incident Response**
+-  Detection of **C2 & Exfiltration Techniques**
+-  Strong background in **Network Security & Defense**
+-  SIEM Monitoring & Alert Analysis
+-  Hands-on labs & real attack scenarios
 
 ---
 
@@ -58,28 +58,28 @@
 
 ---
 
-## 🧪 Projects & Labs
+##  Projects & Labs
 
 | Category | Description |
 |-------|------------|
-| 🔍 Traffic Analysis | PCAP analysis for C2 & Malware communication |
-| 🚨 Incident Response | Detection & containment of network attacks |
-| 🧠 Threat Detection | MITRE ATT&CK based detection scenarios |
-| 🧱 Network Security | Firewall rules, segmentation & monitoring |
+|  Traffic Analysis | PCAP analysis for C2 & Malware communication |
+|  Incident Response | Detection & containment of network attacks |
+|  Threat Detection | MITRE ATT&CK based detection scenarios |
+|  Network Security | Firewall rules, segmentation & monitoring |
 
 > 📌 Repositories include **labs, notes, detection logic, and SOC scenarios**
 
 ---
 
-## 📚 Certifications & Learning
+##  Certifications & Learning
 
-- 🛡️ **eCIR** (eLearnSecurity Certified Incident Responder)
-- 🏹 **Threat Hunting** Professional Training
-- 🌐 **CCNA** (Cisco Certified Network Associate)
-- 🐧 **Linux Administration I & II**
-- 🧱 **Firewall Administration** (FortiGate / Palo Alto)
-- 🎓 SANS **SEC450** & **SEC504**
-- 🛡️ Continuous hands-on practice in **Blue Team Operations**
+-  **eCIR** (eLearnSecurity Certified Incident Responder)
+-  **Threat Hunting** Professional Training
+-  **CCNA** (Cisco Certified Network Associate)
+-  **Linux Administration I & II**
+-  **Firewall Administration** (FortiGate / Palo Alto)
+-  SANS **SEC450** & **SEC504**
+-  Continuous hands-on practice in **Blue Team Operations**
 
 ---
 
@@ -87,18 +87,18 @@
 
 | Focus | Description |
 |------|------------|
-| 🧠 Learning | Advanced C2 & Exfiltration detection |
-| 🔍 Practicing | Real-world SOC scenarios |
-| 🧪 Labs | PCAP analysis & attack simulations |
-| 📘 Writing | Notes & documentation for security concepts |
+|  Learning | Advanced C2 & Exfiltration detection |
+|  Practicing | Real-world SOC scenarios |
+|  Labs | PCAP analysis & attack simulations |
+|  Writing | Notes & documentation for security concepts |
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)
-- 📧 Email: [Your Email](mailto:your@email.com)
-- 🌍 GitHub: [github.com/moessam13](https://github.com/moessam13)
+-  LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)
+-  Email: [Your Email](mailto:your@email.com)
+-  GitHub: [github.com/moessam13](https://github.com/moessam13)
 
 ---
 
