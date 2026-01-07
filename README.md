@@ -49,4 +49,45 @@ Passionate about detecting C2 Traffic, Data Exfiltration, and defending enterpri
 
 | Category | Description |
 |-------|------------|
-| Traffic Analysis | PCAP analysis for C
+| Traffic Analysis | PCAP analysis for C2 & Malware communication |
+| Incident Response | Detection & containment of network attacks |
+| Threat Detection | MITRE ATT&CK based detection scenarios |
+| Network Security | Firewall rules, segmentation & monitoring |
+
+---
+
+## Certifications & Learning
+
+- **eCIR** (eLearnSecurity Certified Incident Responder)
+- **Threat Hunting** Professional Training
+- **CCNA** (Cisco Certified Network Associate)
+- **Linux Administration I & II**
+- **Firewall Administration** (FortiGate / Palo Alto)
+- SANS **SEC450** & **SEC504**
+- Continuous practice in Blue Team Operations
+
+---
+
+## What I'm Working On
+
+| Focus | Description |
+|------|------------|
+| Learning | Advanced C2 & Exfiltration detection |
+| Practicing | Real-world SOC scenarios |
+| Labs | PCAP analysis & attack simulations |
+
+---
+
+## Connect With Me
+
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)
+- Email: [Your Email](mailto:your@email.com)
+- GitHub: [moessam13](https://github.com/moessam13)
+
+---
+
+<div align="right">
+
+_Cyber Security | Network Defense | Blue Team_
+
+</div>
