@@ -12,11 +12,10 @@
 ![Profile Views](https://img.shields.io/badge/Profile-Views-313131?style=flat&labelColor=545454)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)
 ![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=flat&labelColor=545454&color=313131)
-
 <br>
 <br>
 <br>
-<br>
+<br> 
 
 ---
 
