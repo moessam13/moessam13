@@ -9,7 +9,7 @@
 
 🌐 Passionate about detecting **C2 Traffic, Data Exfiltration**, and defending enterprise networks from modern threats.
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=545454&color=313131&label=Profile%20Views&query=value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dmoessam13%26format%3Djson)
+![Profile Views](https://img.shields.io/badge/Profile-Views-313131?style=flat&labelColor=545454)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=flat&labelColor=545454&color=313131)
 ![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=flat&labelColor=545454&color=313131)
 
